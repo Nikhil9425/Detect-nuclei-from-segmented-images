@@ -13,3 +13,10 @@ This dataset contains a large number of segmented nuclei images. The images were
 Each image is represented by an associated ImageId. Files belonging to an image are contained in a folder with this ImageId. Within this folder are two subfolders:
 * images contains the image file.
 * masks contains the segmented masks of each nucleus. This folder is only included in the training set. Each mask contains one nucleus. Masks are not allowed to overlap (no pixel belongs to two masks).
+
+## Output:-
+
+![image](https://user-images.githubusercontent.com/68101064/210839125-47367251-88a0-488a-a530-09c2d46f4a18.png) ![image](https://user-images.githubusercontent.com/68101064/210839226-b9e48bb6-9c56-4780-a8e4-0b9c7da5f657.png)
+
+
+
